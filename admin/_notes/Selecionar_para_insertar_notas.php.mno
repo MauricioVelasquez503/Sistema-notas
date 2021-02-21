@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ALUMNO_ACTIVIDADES" value="name:ID_GRADO;datatype:int,name:ID_SECCIONES;datatype:string,name:ID_ALUMNO;datatype:string,name:STR_NOMBRE_ALUMNO;datatype:string,name:STR_APELLIDO_ALUMNO;datatype:string,name:ID_PROFESOR;datatype:int,name:ID_MATERIA;datatype:int,name:ID_ACTIVIDAD;datatype:string,name:NOMBRE_ACTIVIDAD;datatype:string,name:PORCENTAJE;datatype:real,name:GRADO;datatype:string,name:STR_SECCIONES;datatype:string" />
+	<infoitem key="UD_MAESTROS_ACTIVIDAD" value="name:id_materia;datatype:int,name:id_profesor;datatype:int,name:cod_materia;datatype:string,name:nombre_materia;datatype:string,name:str_codigo__profesor;datatype:string,name:str_nombre_profesor;datatype:string,name:str_apellido_profesor;datatype:string,name:id_grado;datatype:int,name:id_secciones;datatype:string,name:nombre_grado;datatype:string,name:str_secciones;datatype:string" />
+	<infoitem key="UD_GRADO" value="name:ID_GRADO;datatype:int,name:GRADO;datatype:string" />
+	<infoitem key="UD_PROFESOR" value="name:ID_PROFESOR;datatype:int,name:STR_CODIGO__PROFESOR;datatype:string,name:STR_NOMBRE_PROFESOR;datatype:string,name:STR_APELLIDO_PROFESOR;datatype:string,name:FECHA_REGISTRO;datatype:date" />
+	<infoitem key="UD_MATERIA" value="name:ID_MATERIA;datatype:int,name:STR_CODIGO;datatype:string,name:STR_NOMBRE;datatype:string,name:FECHA_REGISTRO;datatype:date" />
+	<infoitem key="UD_SECCIONES" value="name:ID_GRADO;datatype:int,name:ID_SECCIONES;datatype:string,name:STR_SECCIONES;datatype:string" />
+</info>

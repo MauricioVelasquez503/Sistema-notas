@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID_GRADO;datatype:int,name:ID_SECCIONES;datatype:string,name:GRADO;datatype:string,name:ID_ALUMNO;datatype:string,name:STR_NOMBRE_ALUMNO;datatype:string,name:STR_APELLIDO_ALUMNO;datatype:string,name:STRNIE;datatype:string" />
+</info>

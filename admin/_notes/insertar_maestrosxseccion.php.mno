@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID_GRADO;datatype:int,name:GRADO;datatype:string,name:ID_SECCIONES;datatype:string,name:STR_SECCIONES;datatype:string" />
+	<infoitem key="UD_Profesores" value="name:ID_PROFESOR;datatype:int,name:STR_CODIGO__PROFESOR;datatype:string,name:STR_NOMBRE_PROFESOR;datatype:string,name:STR_APELLIDO_PROFESOR;datatype:string,name:FECHA_REGISTRO;datatype:date" />
+</info>

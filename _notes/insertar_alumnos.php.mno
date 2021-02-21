@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_grados" value="name:ID_GRADO;datatype:int,name:GRADO;datatype:string,name:ID_SECCIONES;datatype:string,name:STR_SECCIONES;datatype:string" />
+	<infoitem key="UD_secciones" value="name:ID_GRADO;datatype:int,name:GRADO;datatype:string,name:ID_SECCIONES;datatype:string,name:STR_SECCIONES;datatype:string" />
+</info>

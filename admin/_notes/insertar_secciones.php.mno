@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_secciones" value="name:ID_GRADO;datatype:int,name:GRADO;datatype:string" />
+</info>

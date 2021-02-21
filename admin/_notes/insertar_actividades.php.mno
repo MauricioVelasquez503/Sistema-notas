@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:IDTIPO_ACTIVIDAD;datatype:int,name:STR_NOMBRE_ACTIVIDAD;datatype:string,name:ES_EXAMEN;datatype:real,name:ES_TAREA;datatype:real" />
+</info>

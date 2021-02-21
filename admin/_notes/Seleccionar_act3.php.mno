@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID_GRADO;datatype:int,name:ID_SECCIONES;datatype:string,name:ID_MATERIA;datatype:int,name:ID_ACTIVIDAD;datatype:string,name:ID_PROFESOR;datatype:int,name:ID_ALUMNO;datatype:string,name:IDTIPO_ACTIVIDAD;datatype:int,name:STR_NOMBRE;datatype:string,name:PORCENTAJE;datatype:real,name:FECHA_ENTREGA;datatype:date,name:GRADO;datatype:string,name:STR_CODIGO;datatype:string,name:NOMBRE_MATERIA;datatype:string,name:STR_CODIGO__PROFESOR;datatype:string,name:STR_NOMBRE_PROFESOR;datatype:string,name:STR_APELLIDO_PROFESOR;datatype:string,name:STR_NOMBRE_ACTIVIDAD;datatype:string,name:ES_EXAMEN;datatype:real,name:ES_TAREA;datatype:real" />
+</info>

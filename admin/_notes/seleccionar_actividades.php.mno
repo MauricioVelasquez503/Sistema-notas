@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pro_gra_secc_mat" value="name:id_materia;datatype:int,name:id_profesor;datatype:int,name:cod_materia;datatype:string,name:nombre_materia;datatype:string,name:str_codigo__profesor;datatype:string,name:str_nombre_profesor;datatype:string,name:str_apellido_profesor;datatype:string,name:id_grado;datatype:int,name:id_secciones;datatype:string,name:nombre_grado;datatype:string,name:str_secciones;datatype:string" />
+</info>

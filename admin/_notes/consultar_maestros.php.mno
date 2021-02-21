@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_maestros" value="name:ID_PROFESOR;datatype:int,name:STR_CODIGO__PROFESOR;datatype:string,name:STR_NOMBRE_PROFESOR;datatype:string,name:STR_APELLIDO_PROFESOR;datatype:string,name:FECHA_REGISTRO;datatype:date" />
+	<infoitem key="UD_materia" value="name:ID_MATERIA;datatype:int,name:ID_PROFESOR;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:ID_PROFESOR;datatype:int,name:STR_CODIGO__PROFESOR;datatype:string,name:STR_NOMBRE_PROFESOR;datatype:string,name:STR_APELLIDO_PROFESOR;datatype:string,name:FECHA_REGISTRO;datatype:date" />
+</info>
